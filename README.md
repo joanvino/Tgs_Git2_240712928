@@ -1,8 +1,6 @@
-# Tgs\_Git2\_240712928
+# Tgs\_Git2\_240712776
 
 <<<<<<< HEAD
-Halo, Saya Berlin Lukita - NIM 230712517 - Kelompok 3
-
 Halo, saya Dylan Arya Immanuel Suhadi - NIM 240712776 - Kelompok 3
 
 
